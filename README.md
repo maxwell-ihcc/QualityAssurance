@@ -16,14 +16,4 @@
    
 4. Click the green Clone or Download button
 
-5. Copy the HTTP URL
-   * ![Fork Image](Clone%20with%20HTTPS.jpg)
-   2. it should look similar to https://github.com/(Your User Name Here)/QualityAssurance.git
-   3. If it says Use HTTP on the top right click that. Otherwise you will receive the SSH URL.
-   
-6. Clone your forked copy into GitHubDesktop
-   * ![Fork Image](QualityAssurance.jpg)
-   
-7. Change the ChangeMe Document. 
-   1. Add your first and last name on one line.
-   2. Do not delete others names.
+
